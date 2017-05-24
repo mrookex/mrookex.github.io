@@ -1,0 +1,51 @@
+
+body {
+  background-color: #F1D1C9;
+}
+
+
+.glyphicon {
+  font-size: 40px;
+  margin-top:80px;
+}
+
+.glyphicon:hover {
+  color:#FFFFFF;
+  font-size: 40px;
+}
+.dropdown-menu li a{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing:4px;
+
+}
+.dropdown-menu li a:hover {
+  color:#C3DCD9;
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.down {
+ font-size: 20px;
+ margin-top: 50px;
+
+ }
+
+h1 {
+  font-size: 30px;
+  margin-top:80px;
+  font-family: 'Montserrat', sans-serif;
+  font-style: bold;
+  letter-spacing:4px;
+
+}
+
+h1 a {
+  text-decoration: none;
+  color: #000000;
+}
+
+h1 a:hover{
+  text-decoration: none;
+  color: #FFFFFF;
+}

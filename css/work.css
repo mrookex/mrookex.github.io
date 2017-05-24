@@ -1,0 +1,79 @@
+body {
+  background-color: #F1D1C9;
+}
+
+.glyphicon {
+  font-size: 40px;
+  margin-top:80px;
+}
+
+.glyphicon:hover {
+  color:#FFFFFF;
+  font-size: 40px;
+}
+.dropdown-menu li a{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing:4px;
+
+}
+.dropdown-menu li a:hover {
+  color:#C3DCD9;
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.design img{
+  width:412px;
+  height: 388px;
+}
+
+.photo img{
+  width:412px;
+  height: 388px;
+}
+
+h1{
+  font-size: 40px;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing:4px;
+   margin-top: 100px ;
+   margin-bottom: 130px;
+   color:#FFFFFF;
+}
+
+
+h2,h3,{
+  margin-top: 50px;
+  font-size: 20px;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing:2px;
+  color:#FFFFFF;
+}
+
+
+
+
+  h2 a {
+      color:#FFFFFF;
+        font-size: 30px;
+          letter-spacing:2px;
+}
+h2 a:hover{
+  color:#C3DCD9;
+  text-decoration: none;
+
+}
+
+
+  h3 a {
+      color:#FFFFFF;
+        font-size: 30px;
+        letter-spacing:2px;
+}
+h3 a:hover{
+  color:#C3DCD9;
+  text-decoration: none;
+
+}

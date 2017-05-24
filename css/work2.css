@@ -1,0 +1,50 @@
+body {
+  background-color: #F1D1C9;
+}
+
+.glyphicon {
+  font-size: 40px;
+  margin-top:80px;
+}
+
+.glyphicon:hover {
+  color:#FFFFFF;
+  font-size: 40px;
+}
+.dropdown-menu li a{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing:4px;
+
+}
+.dropdown-menu li a:hover {
+  color:#C3DCD9;
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing:4px;
+   margin-top: 100px ;
+   margin-left: 450px;
+   margin-bottom: 130px;
+   color:#FFFFFF;
+}
+
+.photo2 img{
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+}
+
+.video video{
+  margin-bottom: 100px ;
+}
+
+.photo3 img{
+
+  margin-bottom: 400px;
+
+}

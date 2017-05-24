@@ -1,0 +1,101 @@
+body {
+  background-color: #F1D1C9;
+}
+
+.glyphicon {
+  font-size: 40px;
+  margin-top:80px;
+}
+
+.glyphicon:hover {
+  color:#FFFFFF;
+  font-size: 40px;
+}
+.dropdown-menu li a{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing:4px;
+
+}
+.dropdown-menu li a:hover {
+  color:#C3DCD9;
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  font-size: 40px;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing:4px;
+   margin-top: 100px ;
+   margin-bottom: 130px;
+   color:#FFFFFF;
+}
+
+.mood{
+  font-size: 40px;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing:4px;
+   margin-top: 100px ;
+   margin-bottom: 130px;
+   color:#FFFFFF;
+}
+
+.p1 img{
+  width:300px;
+  height: 300px;
+
+margin-right: 140px;
+margin-bottom: 50px;
+}
+
+
+.p2 img{
+  width:300px;
+  height: 300px;
+  margin-right: 80px;
+  margin-left: 80px;
+  margin-bottom: 50px;
+}
+
+
+.p3 img{
+  width:300px;
+  height: 300px;
+  margin-left: 140px;
+  margin-bottom: 50px;
+
+}
+
+h2  {
+    color:#FFFFFF;
+    margin-top: 70px;
+    margin-right: 60px;
+    font-size: 30px;
+      letter-spacing:2px;
+}
+
+h3  {
+    color:#FFFFFF;
+    margin-top: 70px;
+    margin-left: 100px;
+    font-size: 30px;
+      letter-spacing:2px;
+
+}
+
+
+h4  {
+    color:#FFFFFF;
+    margin-top: 70px;
+    margin-left: 210px;
+      letter-spacing:2px;
+  font-size: 30px;
+
+}
+.kiko img{
+  width::895px;
+  height: 1022px;
+  margin-top: 300px;
+  margin-bottom: 600px
+}
